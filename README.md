@@ -4,7 +4,7 @@
   <samp>
     I'm Muh Ghazali Akbar :wave:
     <br><br>
-    🇮🇩 Remote worker, 💻 Laravel+Vue.js, Dota 2 and Tailwind CSS enthusiasm
+    🇮🇩 Remote worker, 💻 Laravel+Vue.js/React(Next.js), Dota 2 and Tailwind CSS enthusiasm
     <br><br>
     I believe in a world where Milkshakes can solve any and all problems :grin:
     <br><br>
