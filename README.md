@@ -39,7 +39,7 @@ final class Ghali extends Engineer
     public int    $since     = 2015;
 
     public array $stack = [
-        'backend'  => ['PHP', 'Laravel', 'MySQL', 'PostgreSQL', 'Redis'],
+        'backend'  => ['PHP', 'Laravel', 'MySQL'],
         'frontend' => ['TypeScript', 'React', 'Next.js', 'Vue.js', 'Tailwind CSS'],
         'mobile'   => ['Ionic'],
         'desktop'  => ['Swift', 'SwiftUI', 'AppKit'],
@@ -88,11 +88,7 @@ final class Ghali extends Engineer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,vue,tailwind,html,css&perline=10" alt="Languages & frameworks">
-    <br>
-    <img src="https://skillicons.dev/icons?i=swift,mysql,postgres,redis,nodejs,docker,git,github,vercel,linux&perline=10" alt="Tools & databases">
-    <br>
-    <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,xcode,vscode,figma,apple&perline=10" alt="Editors & devices">
+    <img src="https://skillicons.dev/icons?i=php,laravel,ts,react,nextjs,vue,tailwind,swift,mysql&perline=9" alt="Tech stack">
   </a>
 </p>
 
@@ -100,14 +96,12 @@ final class Ghali extends Engineer
 <summary><b>🔍 Breakdown</b></summary>
 <br>
 
-| Area | Tools |
+| Area | Stack |
 | :--- | :---- |
-| **Backend** | PHP, Laravel, MySQL, PostgreSQL, Redis, REST APIs |
+| **Backend** | PHP, Laravel, MySQL |
 | **Frontend** | TypeScript, JavaScript, React, Next.js, Vue.js, Tailwind CSS |
 | **Mobile** | Ionic Framework |
 | **Desktop** | Swift, SwiftUI, AppKit (macOS) |
-| **DevOps** | Docker, Git, GitHub Actions, Vercel, Linux |
-| **Daily drivers** | macOS, PhpStorm, WebStorm, Xcode |
 
 </details>
 
@@ -152,26 +146,6 @@ final class Ghali extends Engineer
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=muhghazaliakbar&theme=transparent&hide_border=true&ring=0EA5E9&fire=6366F1&currStreakLabel=0EA5E9" alt="GitHub streak">
-</p>
-
-</details>
-
-<details>
-<summary><b>🏆 Trophies</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhghazaliakbar&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub trophies">
-</p>
-
-</details>
-
-<details>
-<summary><b>📅 Contribution graph</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhghazaliakbar&theme=react-dark&bg_color=00000000&hide_border=true&color=0EA5E9&line=6366F1&point=ffffff&area=true" alt="Contribution graph">
 </p>
 
 </details>
